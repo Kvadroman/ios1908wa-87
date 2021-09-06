@@ -74,5 +74,3 @@ class ViewController: UIViewController {
     }
 }
 
-работает
-
